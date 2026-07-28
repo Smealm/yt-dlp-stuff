@@ -7,7 +7,7 @@ Software used for this repo: [Parabolic](https://github.com/NickvisionApps/Parab
 ### [Tubi](https://tubitv.com/)
 
 - **TV Shows**
-  - [Too Cute!](tubitv.com/tv-shows/719204/) — [IMDb](https://www.imdb.com/title/tt2197519/) — [Batch File](https://raw.githubusercontent.com/Smealm/yt-dlp-stuff/refs/heads/main/Tubi%20-%20Too%20Cute!.txt)
+  - [Too Cute!](https://tubitv.com/tv-shows/719204/) — [IMDb](https://www.imdb.com/title/tt2197519/) — [Batch File](https://raw.githubusercontent.com/Smealm/yt-dlp-stuff/refs/heads/main/Tubi%20-%20Too%20Cute!.txt)
 
 ### How to use
 
