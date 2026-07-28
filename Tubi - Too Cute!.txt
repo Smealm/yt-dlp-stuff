@@ -7,6 +7,8 @@ https://tubitv.com/tv-shows/719200/s01-e05-kitten-dolls
 https://tubitv.com/tv-shows/718659/s01-e06-kitten-cottonballs
 https://tubitv.com/tv-shows/719033/s01-e07-super-fluffy-puppies
 https://tubitv.com/tv-shows/718767/s01-e08-pool-puppies
+
+// Season 2
 https://tubitv.com/tv-shows/720066/s02-e01-fluffy-puppies-baby-goats
 https://tubitv.com/tv-shows/720089/s02-e02-jungle-kitties-baby-skunks
 https://tubitv.com/tv-shows/720079/s02-e03-fuzzy-polar-puppies
@@ -23,6 +25,8 @@ https://tubitv.com/tv-shows/720085/s02-e13-tiny-giants
 https://tubitv.com/tv-shows/720581/s02-e14-fluff-and-feathers
 https://tubitv.com/tv-shows/720096/s02-e15-puppy-power
 https://tubitv.com/tv-shows/720212/s02-e16-fluffiest-kittens
+
+// Season 3
 https://tubitv.com/tv-shows/719708/s03-e01-puppies-and-a-piggy
 https://tubitv.com/tv-shows/719566/s03-e02-tiny-puppies-big-paws
 https://tubitv.com/tv-shows/720695/s03-e03-puppies-making-mischief
@@ -36,6 +40,8 @@ https://tubitv.com/tv-shows/719244/s03-e10-animal-bffs-bear-and-kangaroo
 https://tubitv.com/tv-shows/719161/s03-e11-animal-bffs-baboon-and-pig
 https://tubitv.com/tv-shows/719734/s03-e12-fuzzy-puppy-stars
 https://tubitv.com/tv-shows/720657/s03-e13-puppy-and-kitten-holiday
+
+// Season 4
 https://tubitv.com/tv-shows/720751/s04-e01-mighty-mountain-puppies
 https://tubitv.com/tv-shows/720223/s04-e02-chilled-out-pups
 https://tubitv.com/tv-shows/720276/s04-e03-pint-sized-pups-and-a-ferret
@@ -45,6 +51,8 @@ https://tubitv.com/tv-shows/720246/s04-e06-tiny-watchdogs
 https://tubitv.com/tv-shows/720224/s04-e07-musical-kittens
 https://tubitv.com/tv-shows/720191/s04-e08-supersized-pups
 https://tubitv.com/tv-shows/720240/s04-e09-little-lion-pups
+
+// Season 5
 https://tubitv.com/tv-shows/719509/s05-e01-kittens-and-canines
 https://tubitv.com/tv-shows/719129/s05-e02-tubby-puppies-pint-sized
 https://tubitv.com/tv-shows/719238/s05-e03-chatty-kitties-pint-sized
@@ -58,6 +66,8 @@ https://tubitv.com/tv-shows/719173/s05-e10-puppy-surprise-pint-sized
 https://tubitv.com/tv-shows/719237/s05-e11-cuddly-kittens-pint-sized
 https://tubitv.com/tv-shows/719254/s05-e12-fab-furless-kittens-pint-sized
 https://tubitv.com/tv-shows/719232/s05-e13-puppy-pros-pint-sized
+
+// Season 6
 https://tubitv.com/tv-shows/719279/s06-e01-shy-kitties-pint-sized
 https://tubitv.com/tv-shows/719215/s06-e02-rescue-kittens-and-water-baby-pint-sized
 https://tubitv.com/tv-shows/719320/s06-e03-super-pups-pint-sized
